@@ -12,7 +12,7 @@ CitroFlex is divided into several sub-modules listed below with their functional
 ### 2. **cf_debug** _Tools for debugging_
    - Logger: Permits to debug your 3ds game by logging into a file in the SD CARD
 
-### 3. **cf_math** _Miscellaneous_
+### 3. **cf_math** _Miscellaneous maths_
    - vec2: Vector 2d type
    - VECZERO: Constant 2D vector with zero components.
    - clamp: Template function that constrains a given value within a specified range.
