@@ -49,7 +49,7 @@ CitroFlex is divided into several sub-modules listed below with their functional
    - destroy: Virtual method that can be overridden to perform cleanup tasks when destroying the scene, such as freeing resources associated with objects.
 
 ## Compiling
-1. Ensure that you have installed the Nintendo 3DS development kit (devkitPro) on your system. You can download it from the official website: devkitPro.
+1. Ensure that you have installed the Nintendo 3DS development kit (devkitPro) on your system. You can download it from the official website: [devkitPro](https://devkitpro.org/).
 > [!NOTE]
 > Also, make sure to have the necessary compilation tools installed such as libctru, citro3d, etc.
 2. Navigate to your project directory in the terminal.
