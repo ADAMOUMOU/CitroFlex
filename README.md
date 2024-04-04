@@ -1,5 +1,5 @@
 # CitroFlex
-A game engine that I am working on for the C2D graphical library of the Nintendo 3ds
+A scene based game engine that I am working on for the C2D graphical library of the Nintendo 3ds
 > [!WARNING]
 > Note that this is in a very early stage and not all modules are working so be free to help me :hugs:
 
