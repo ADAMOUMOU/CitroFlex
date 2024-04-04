@@ -1,0 +1,13 @@
+.horizontal {
+    height: 7%;
+}
+
+.col {
+    height: 100%;
+    width: 1fr;
+}
+
+.button-dialog {
+    align: right middle;
+    width: 10%;
+}
