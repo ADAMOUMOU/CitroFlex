@@ -25,7 +25,7 @@ CitroFlex is divided into several sub-modules listed below with their functional
 
 ### 4. **cf_objects** _Objects classes for game and UI elements_
    - Object: Base class for game objects, with position and ID properties, and virtual methods for initialization and updating.
-   - Lazer: Represents a laser object with properties such as start and end positions, color, thickness, and functionality for spawning and updating.
+   - Lazer: Represents a ray object with properties such as start and end positions, color, thickness, and functionality for spawning and updating.
    - Player: Represents the player object with properties like position, size, speed, color, health, and methods for initialization, movement, updating, and collision detection.
    - Text: Class for displaying text on the screen with methods for initialization, updating, and freeing resources.
    - Button: Class representing a clickable button with properties like position, size, colors, and attached text, along with methods for initialization, updating, adding text, and freeing resources.
