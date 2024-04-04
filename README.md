@@ -61,6 +61,7 @@ CitroFlex is divided into several sub-modules listed below with their functional
 ## Debugging
 > Some tools are provided to help you debug you game:
 >   -dbg_view.py _A python script with a UI to see the logger printed text in real time compatible with Richtext_
+
 > [!TIP]
 > Do not hesitate to propose some other debugging utilities.
 
