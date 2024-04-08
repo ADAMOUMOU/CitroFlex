@@ -1,7 +1,7 @@
 # CitroFlex
 A scene based game engine that I am working on for the C2D graphical library of the Nintendo 3ds
 > [!WARNING]
-> Note that this is in a very early stage and not all modules are working so be free to help me :hugs:
+> Note that this is in a very early stage and not all modules are working so I do not recommand testing it on real hardware but be free to help me if you want:hugs:
 
 ## Modules
 CitroFlex is divided into several sub-modules listed below with their functionalities:
